@@ -6,3 +6,6 @@ https://wokwi.com/projects/446944632514197505
 
 Projek 3
 https://wokwi.com/projects/447573942516449281
+
+Projek 4
+https://wokwi.com/projects/447577387971366913
